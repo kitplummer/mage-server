@@ -43,3 +43,7 @@ licenses:
   mage-server:
     name: CC0
     url: https://github.com/ion-channel/mage-server/blob/master/LICENSE.md
+
+team:
+- github: fred
+  role: lead
