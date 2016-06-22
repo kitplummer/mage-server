@@ -1,5 +1,7 @@
 # MAGE Server & Web Client
 
+[![Compliance Status](https://api.test.ionchannel.io/v1/analysis/getProject?account_id=account_id&apikey=9a684743a58b4110c14d5279d3f868ba&project_id=79c15f0a45331b20318760eeab1ea084&format=badge)](https://github.com/ion-channel/mage-server)
+
 The **M**obile **A**wareness **G**EOINT **E**nvironment, or MAGE, provides mobile situational awareness capabilities. The MAGE web client can be accessed over the internet and is optimized for desktop and mobile web browsers.  The MAGE web client allows you to create geotagged field reports that contain media such as photos, videos, and voice recordings and share them instantly with who you want. Using the HTML Geolocation API, MAGE can also track users locations in real time. Your locations can be automatically shared with the other members of your team.
 
 MAGE is very customizable and can be tailored for you situation, including custom forms, avatars, and icons.
