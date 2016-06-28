@@ -45,5 +45,5 @@ licenses:
     url: https://github.com/ion-channel/mage-server/blob/master/LICENSE.md
 
 team:
-- github: fred
-  role: lead
+#- github: fred
+#  role: lead
